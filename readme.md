@@ -1,3 +1,4 @@
 # Git Demo
 
-This is a test -- Trying to know how Git works
+This is a test -- Trying to know how Git works.
+Git -- SCM
